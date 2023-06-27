@@ -1,1 +1,21 @@
 You've successfully cloned the repository!
+
+Useful terminal commands:
+MacOS/Unix/Linux
+----------------
+ls [path]
+List directory contents. If no path is given, use current directory.
+
+cd [path]
+Change Directory to path. If no path is given, change to user home directory.
+
+pwd
+Displays the Present Working Directory.
+
+Windows
+-------
+dir [path]
+List directory contents. If not path is given, use current directory.
+
+cd [path]
+Change Directory to path. If no path is given, display the present working directory.
